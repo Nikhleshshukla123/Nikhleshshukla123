@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="height:200px;"  src="https://telegra.ph/file/a1b6b6d072feb16410341.jpg">
+<img style="height:200px;width:200px;"  src="https://telegra.ph/file/a1b6b6d072feb16410341.jpg">
 
