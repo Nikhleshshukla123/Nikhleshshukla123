@@ -41,12 +41,6 @@ I'm a passionate Python Developer & Data Scientist who loves building innovative
 - 🎓 Certified in DSA using C, Data Science using Python, The Joy of Computing using Python
 - 🎓 Certified by NPTEL, Udemy, Simplilearn
 
-## 📊 GitHub Stats  
-
-https://github-readme-stats.vercel.app/api?username=Nikhleshshukla123&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhleshshukla123&layout=compact&theme=radical
-
-
 ## 📬 Let's Connect  
 
 - LinkedIn: https://www.linkedin.com/in/nikhlesh-shukla-59713325a 
